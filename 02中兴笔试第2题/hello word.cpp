@@ -4,6 +4,7 @@
 using namespace std;
 
 int main() {
-	vector<int> p;
+	cout <<"hello word"<<endl;
+	return 0;
 	
 }
